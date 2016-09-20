@@ -9,6 +9,8 @@ Just a list of the speakers at ColdFront Conference 2016, with their various soc
 Slides:
 https://github.com/misslivirose/aframewebdemo
 
+YouTube: https://www.youtube.com/watch?v=SV3UO_2Pftw
+
 http://aframetalk.azurewebsites.net/
 
 https://livierickson.com/
@@ -19,7 +21,9 @@ https://livierickson.com/
 ### The future of the web platform 
 
 Slides: 
-http://www.slideshare.net/robnyman/the-future-of-the-web-cold-front-conference-2016 
+http://www.slideshare.net/robnyman/the-future-of-the-web-cold-front-conference-2016
+
+YouTube: https://www.youtube.com/watch?v=1MOR77U9eRs
 
 https://robertnyman.com/
 
@@ -29,6 +33,8 @@ https://robertnyman.com/
 ### The Internet of Things is for People 
 
 Slides: http://www.slideshare.net/yiibu/the-internet-of-things-is-for-people
+
+YouTube: https://www.youtube.com/watch?v=J8wU6Ewkyfg
 
 https://stephanierieger.com/
 
@@ -42,6 +48,8 @@ https://yiibu.com/
 Slides: 
 https://speakerdeck.com/brucel/coldfront-conference-sept-1-2016
 
+YouTube: https://www.youtube.com/watch?v=QVuRba0NGKg
+
 Manifest Generator: http://brucelawson.github.io/manifest/
 
 ## Mathias Bynens
@@ -51,6 +59,8 @@ Manifest Generator: http://brucelawson.github.io/manifest/
 
 Slides: 
 https://speakerdeck.com/mathiasbynens/front-end-performance-the-dark-side-at-coldfront-conference-2016
+
+YouTube: https://www.youtube.com/watch?v=p2s4QqOlyVs
 
 https://mathiasbynens.be/
 
@@ -63,6 +73,8 @@ http://arstechnica.com/security/2016/08/new-attack-steals-ssns-e-mail-addresses-
 
 Slides: https://soledadpenades.com/files/t/2016_servo/
 
+YouTube: https://www.youtube.com/watch?v=WaOxkwQZrXM
+
 https://github.com/servo/servo
 
 ## Glenn Maddern
@@ -71,6 +83,8 @@ https://github.com/servo/servo
 ### The Future of Reusable CSS 
 
 Slides: https://speakerdeck.com/geelen/the-future-of-reusable-css 
+
+YouTube: https://www.youtube.com/watch?v=XR6eM_5pAb0
 
 https://github.com/css-modules/css-modules
 
@@ -84,6 +98,8 @@ Styling with Strings: http://simurai.com/blog/2014/05/04/cssconf
 ### You Don’t Need a Framework for That 
 
 Slides: http://instartlogic.github.io/p/overkill/
+
+YouTube: https://www.youtube.com/watch?v=Y5QauOGvr5w
 
 @standardista
 
